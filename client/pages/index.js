@@ -16,8 +16,7 @@ export default function Home() {
           <div className={styles.first}>
             <div className={styles.left_side}>
               <div className={styles.title_text}>Hi There</div>
-              <div className={styles.cuty_picture}>
-              </div>
+              <div className={styles.cuty_picture}></div>
             </div>
             <div className={styles.right_side}>
               <div className={styles.right_side_text}>
@@ -33,8 +32,8 @@ export default function Home() {
             </div>
           </div>
           <div className={styles.second}>
-            <div className={styles.second_image}>
-            </div>
+            <div className={styles.down_arrow}></div>
+            <div className={styles.second_image}></div>
             <div className={styles.second_text}>
               I am drawn towards modern design that <br></br> clearly
               communicates with the viewer. <br></br>Take a look at some of my
