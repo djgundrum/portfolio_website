@@ -31,10 +31,11 @@
 	height: 100%;
 	width: 100%;
 	background-image: url("../public/icons/GradientClipped.png");
-	background-position: right;
+	background-position: right top;
 	position: absolute;
 	background-repeat: no-repeat;
-	background-size: 40%;
+	background-size: 30%;
+	transform: translateY(-1.2px);
 }
 
 .down_arrow {
@@ -89,14 +90,14 @@
 	position: absolute;
 	bottom: 50px;
 	left: 20px;
-	font-size: 1.9rem;
-	width: 50%;
+	font-size: 1.8rem;
+	width: 40%;
 	font-family: bilo;
 	font-weight: 100;
 }
 
 .coordinates {
-	font-size: 1.3rem;
+	font-size: 1.2rem;
 }
 
 .right_side_bar {

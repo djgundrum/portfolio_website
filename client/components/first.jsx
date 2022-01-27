@@ -19,8 +19,8 @@ const First = () => {
 						<div className={styles.right_side}>
 							<div className={styles.right_side_text}>
 								<div>
-									I am a digital communicator <br></br> currently honing my
-									craft at <br></br>the University of Louisville.
+									I am a digital communicator currently honing my
+									craft at the University of Louisville.
 								</div>
 								<div className={styles.coordinates}>38.2123° N, 85.7585° W</div>
 							</div>
@@ -33,8 +33,8 @@ const First = () => {
 						<div className={styles.down_arrow}></div>
 						<div className={styles.second_image}></div>
 						<div className={styles.second_text}>
-							I am drawn towards modern design that <br></br> clearly
-							communicates with the viewer. <br></br>Take a look at some of my
+							I am drawn towards modern design that clearly
+							communicates with the viewer. Take a look at some of my
 							work below.
 						</div>
 					</div>
